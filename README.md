@@ -38,7 +38,7 @@ or you can use `NBTProvider` to use NBT based database.
 ```javascript
 import { NBTProvider } from "meg.db";
 
-const db = new YAMLProvider('./megdb.nbt');
+const db = new NBTProvider('./megdb.nbt');
 ```
 
 ### Simple Examples
